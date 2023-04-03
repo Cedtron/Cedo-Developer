@@ -41,4 +41,4 @@ I'm a web developer who's passionate about building beautiful, responsive, and u
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/cedtron"><img src="https://github-readme-stats.vercel.app/api?username=cedtron&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cedtron's GitHub stat
+<a href="http://www.github.com/cedtron"><img src="https://github-readme-stats.vercel.app/api?username=cedtron&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cedtron's GitHub stats" /></a>
